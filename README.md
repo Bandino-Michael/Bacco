@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Baccobax
 - 👀 I’m interested in most of programming and modelling related stuff
 - 🌱 I’m currently learning Computer science
-- 💞️ I’m looking to collaborate on Doom II Projects mostly, but at the moment I'm pretty busy with other stuff
-- 📫 How to reach me: Don't. At the moment I'm pretty busy with several projects
+- 💞️ I’m looking to collaborate on any Video Game related project, but I'm open to any Unity/3D modelling projects.
+- 📫 How to reach me: For work related projects bndmhlwork@gmail.com. For non work related project contact me through dm's here.
 
 <!---
 Baccobax/Baccobax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
