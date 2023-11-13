@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Baccobax
+- 👋 Hi, I’m @Baccobax, aka Bandino Michael
 - 👀 I’m interested in most of programming and modelling related stuff
 - 🌱 I’m currently learning Computer science
 - 💞️ I’m looking to collaborate on any Video Game related project, but I'm open to any Unity/3D modelling projects.
